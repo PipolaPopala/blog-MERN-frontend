@@ -1,4 +1,4 @@
-## BLOG-MENR-BACKEND
+## BLOG-MERN-BACKEND
 
 ### СТЭК:
 
